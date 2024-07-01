@@ -10,4 +10,4 @@ In this project we have showcased the success of surrogate Machine Learning (ML)
 
 [5] DFT_validated_perovskites.xlsx : DFT validation of 5 chosen perovskites against the ML predictions.
 
-./PBE-relaxed_cif_files contain the PBE-relaxed .cif files of the DFT validated perovskites. 
+"./PBE-relaxed_cif_files" contain the PBE-relaxed .cif files of the DFT validated perovskites. 
